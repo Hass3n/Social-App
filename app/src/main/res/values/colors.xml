@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#723b72</color>
+    <color name="colorPrimaryDark">#723b72</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color>
+    <color name="pink">#723b72</color>
+    <color name="pink_edit">#f2f2f2</color>
+    <color name="black">#0E0D0D</color>
+    <color name="c_chat">#F0ECE9</color>
+
+</resources>

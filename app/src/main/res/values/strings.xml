@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SocialApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">profile</string>
+    <string name="title_notifications">User</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
